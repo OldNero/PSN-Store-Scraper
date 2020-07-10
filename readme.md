@@ -1,11 +1,5 @@
-# psn-store-scraper
+# PSN Store Scraper
 
-
-## Install
-
-Fetch the newest version via NPM
-
-`npm install psn-store-scraper`
 
 ## Usage
 
@@ -54,6 +48,7 @@ Scraper.scrape("https://store.playstation.com/de-de/product/XXXXX", function(sOb
         discount_percent
     }
     type
+    size
     platforms
     release_date
     provider
