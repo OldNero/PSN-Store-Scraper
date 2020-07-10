@@ -1,5 +1,7 @@
-var mUtils = require("./utils.js").mUtils
-const { StoreObject } = require("./StoreObject.js")
+var mUtils = require("./utils.js").mUtils;
+const {
+    StoreObject
+} = require("./StoreObject.js");
 
 class Scraper {
     constructor() {
@@ -11,7 +13,10 @@ class Scraper {
 
             let resolveArray = [];
             let urlList = (Array.isArray(urlObj) ? urlObj : [urlObj]);
-            let _settings = (typeof settingsObject === 'undefined') ? { logOutput: false, logError: false } : settingsObject;
+            let _settings = (typeof settingsObject === 'undefined') ? {
+                logOutput: false,
+                logError: false
+            } : settingsObject;
             _settings.logOutput = (typeof _settings.logOutput === 'undefined') ? false : _settings.logOutput;
             _settings.logError = (typeof _settings.logError === 'undefined') ? true : _settings.logError;
 
@@ -40,13 +45,19 @@ class Scraper {
                             jsonBody.id,
                             jsonBody.name,
                             jsonBody.default_sku.display_price,
-                            (jsonBody.default_sku.rewards !== undefined && Object.entries(jsonBody.default_sku.rewards).length !== 0 && jsonBody.default_sku.constructor === Object) ? { new_price: jsonBody.default_sku.rewards[0].display_price, plus_required: jsonBody.default_sku.rewards[0].isPlus, discount_percent: jsonBody.default_sku.rewards[0].discount } : null,
+                            (jsonBody.default_sku.rewards !== undefined && Object.entries(jsonBody.default_sku.rewards).length !== 0 && jsonBody.default_sku.constructor === Object) ? {
+                                new_price: jsonBody.default_sku.rewards[0].display_price,
+                                plus_required: jsonBody.default_sku.rewards[0].isPlus,
+                                discount_percent: jsonBody.default_sku.rewards[0].discount
+                            } : null,
                             jsonBody.game_contentType,
                             jsonBody.playable_platform,
                             jsonBody.release_date,
                             jsonBody.provider_name,
                             jsonBody.long_desc,
-                            jsonBody.images
+                            jsonBody.images,
+                            // Fetch game size in bytes
+                            jsonBody.default_sku.entitlements[0].packages[0].size
                         );
 
                         if (_settings.logOutput) {
@@ -75,4 +86,4 @@ class Scraper {
 
 module.exports = {
     Scraper
-}
+};

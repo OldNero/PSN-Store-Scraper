@@ -1,0 +1,309 @@
+{
+    "age_limit": 17,
+    "bucket": "games",
+    "bundleChildTypeId": 2,
+    "cloud_only_platform": ["NONE"],
+    "container_type": "product",
+    "content_descriptors": [{
+        "description": "Violence",
+        "url": null,
+        "name": "Violence"
+    }, {
+        "description": "Strong Language",
+        "url": null,
+        "name": "Strong Language"
+    }, {
+        "description": "Blood",
+        "url": null,
+        "name": "Blood"
+    }],
+    "content_origin": 0,
+    "content_rating": {
+        "description": "ESRB Mature",
+        "rating_system": "ESRB",
+        "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/esrb/m.png"
+    },
+    "content_type": "1",
+    "default_sku": {
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "$39.99",
+        "eligibilities": [],
+        "entitlements": [{
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "UP0283-CUSA15243_00-ZOMBIELAND201900",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Zombieland: Double Tap - Road Trip",
+            "packageType": "PS4GD",
+            "packages": [{
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 7301496832
+            }],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+        }],
+        "id": "UP0283-CUSA15243_00-ZOMBIELAND201900-U001",
+        "is_original": false,
+        "name": "Full Game",
+        "platforms": [0, 18, 10, 13],
+        "price": 3999,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+    },
+    "dob_required": true,
+    "gameContentTypesList": [{
+        "name": "Full Game",
+        "key": "FULL_GAME"
+    }],
+    "game_contentType": "Full Game",
+    "id": "UP0283-CUSA15243_00-ZOMBIELAND201900",
+    "images": [{
+        "type": 1,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307CAa2Uk03zvTtrUzfZndakNirEhDNPxoXIugAP_Dnv14bOb7QzZTC3K3sIwQHoizlz_BoqW0XfEi3nK35zY3L3YW6U0G.png"
+    }, {
+        "type": 2,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307lFAH6Ix2dvgC2hzL1N-QFoMIFiJPFlN9SRdvcdWajHcxkPghjiLC1LTln6mmQA8cwJLF3aac3d-Rq3XvT5oaH86z-5m.png"
+    }, {
+        "type": 9,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307wlLeptfet4NjsYgR0UEwNQQQrctWSkvUCMtNwnV46-YVJIb7igAh-pKgHQEk_XpZXm-AlQdwCk_sWfX0Vyl178CrYjn.png"
+    }, {
+        "type": 10,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/1130752pF_wZWVgk6ljSZOk5f8XWY1eyQUXZHcBI7mwKz6hw0hfDP9Ubf2NyQMeDak6ufag7K6RSrblIhA_TLAIDAfIpAVfk.png"
+    }, {
+        "type": 12,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/113071mqpo5jviKqrqyGjVYN0gFYWyJBdrgCPzexSjGMGOxgB9uTxkHoj81m9eRY47jS1qYFuHqchMgHw-3NMdpD-4k3IAf1.jpg"
+    }, {
+        "type": 13,
+        "url": "https://vulcan.dl.playstation.net/img/cfn/11307nH8d5-i_fgahb3kiQTguK_aPDJQMdekHTMylkE7rf3kie_A99GvCOeGlugU8o8Ut95YwtkqxeChT9YzHEXnm-Ybhtak.png"
+    }],
+    "links": [],
+    "long_desc": "With it’s own unique story, set between the events of the first movie, Zombieland: Double Tap- Road Trip is a ridiculously fun top-down twin-stick shooter featuring local co-op multiplayer for up to four players. Play as your favorite heroes from the original — Tallahassee, Columbus, Wichita and Little Rock — as well as new unlockable characters from the upcoming sequel.  The game embraces the game-like elements seen in the film by  incorporating everything from the “Rules” to “Zombie Kill of the Week”.  Use your special abilities, an arsenal of weapons and the essential Zombieland rules for survival to stay alive against huge numbers of uniquely grotesque and dangerous undead monstrosities in Zombieland: Double Tap- Road Trip’s story-based campaign mode, wave-based horde mode, and boss battles.<br><br>1-4 players<br>DUALSHOCK®4<br><br>  Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service & playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account.<br><br>TM &  © 2019 Columbia Pictures Industries, Inc.  All Rights Reserved. ©2019 GameMill Entertainment, LLC. All rights reserved. GameMill Entertainment is a registered trademark of GameMill Entertainment, LLC.<br>",
+    "mediaList": {
+        "screenshots": [{
+            "type": "SCREENSHOT",
+            "typeId": 4,
+            "source": "PRODUCT_MEDIA",
+            "url": "https://vulcan.dl.playstation.net/img/cfn/11307cp-RjVSut_agBqOJRzd9hhInyVdnxbZREDwAZZbMZQwrGzXNTVXNk-VFydvKI_fM2Bo2AwocTnPP1QUziHNmIkyn6Le.jpg",
+            "order": 1
+        }, {
+            "type": "SCREENSHOT",
+            "typeId": 4,
+            "source": "PRODUCT_MEDIA",
+            "url": "https://vulcan.dl.playstation.net/img/cfn/11307VdOVBZqd3TD4-4NOkv5yylxzwnI4x0TYVMHd0JaL6RQD-spBz2Dlj07FU_QitAgej6PzEbuTI-m_QWeQE9ecFstRq0z.jpg",
+            "order": 2
+        }, {
+            "type": "SCREENSHOT",
+            "typeId": 4,
+            "source": "PRODUCT_MEDIA",
+            "url": "https://vulcan.dl.playstation.net/img/cfn/11307lBu_UMsKr893b8n7JMxx9u1Laemhkg06zjUyS9VqZRY04Wff2RKcS8pyJ2eIcqN5CJq-dv5LkyRsnbWt0IU8nYQYPt9.jpg",
+            "order": 3
+        }, {
+            "type": "SCREENSHOT",
+            "typeId": 4,
+            "source": "PRODUCT_MEDIA",
+            "url": "https://vulcan.dl.playstation.net/img/cfn/11307ym4D-WGWzhHpK77kaaRJD7qtvX6xAaKzEDqNJcMfY0EHKttuZQefl5BAK2cxLJDX653dEEMYUYqgKz3IjxaIckGblD5.jpg",
+            "order": 4
+        }, {
+            "type": "SCREENSHOT",
+            "typeId": 4,
+            "source": "PRODUCT_MEDIA",
+            "url": "https://vulcan.dl.playstation.net/img/cfn/113072sFNY1l9s8K_WmRiaQbP-JGkjYJ4dp2WSgA8NltlWS8g-tL9-kKV6hjd9UMdERydcgM7HbGCY-SeDcjR1_4AC8XqJSi.jpg",
+            "order": 5
+        }]
+    },
+    "media_layouts": [{
+        "type": "description",
+        "height": 1,
+        "width": 4
+    }],
+    "metadata": {
+        "cn_remotePlay": {
+            "name": "cn_remotePlay",
+            "values": ["FALSE"]
+        },
+        "cloud_only_platform": {
+            "name": "cloud_only_platform",
+            "values": ["NONE"]
+        },
+        "cn_vrEnabled": {
+            "name": "cn_vrEnabled",
+            "values": ["FALSE"]
+        },
+        "cn_playstationMove": {
+            "name": "cn_playstationMove",
+            "values": ["NOTREQUIRED"]
+        },
+        "cn_wirelessController": {
+            "name": "cn_wirelessController",
+            "values": ["NOTREQUIRED"]
+        },
+        "secondary_classification": {
+            "name": "secondary_classification",
+            "values": ["GAME"]
+        },
+        "game_subgenre": {
+            "name": "subgenre",
+            "values": ["SHOOT_EM_UP"]
+        },
+        "cn_vrRequired": {
+            "name": "cn_vrRequired",
+            "values": ["FALSE"]
+        },
+        "game_genre": {
+            "name": "Genre",
+            "values": ["SHOOTER"]
+        },
+        "playable_platform": {
+            "name": "playable_platform",
+            "values": ["PS4™"]
+        },
+        "subgenre": {
+            "name": "subgenre",
+            "values": ["SHOOT_EM_UP"]
+        },
+        "cn_dualshockVibration": {
+            "name": "cn_dualshockVibration",
+            "values": ["TRUE"]
+        },
+        "is_bonus": {
+            "name": "is_bonus",
+            "values": ["TRUE"]
+        },
+        "tertiary_classification": {
+            "name": "tertiary_classification",
+            "values": ["NA"]
+        },
+        "container_type": {
+            "name": "Container Type",
+            "values": ["NP_PS4_REPRESENTATIVE"]
+        },
+        "genre": {
+            "name": "Genre",
+            "values": ["Shooter"]
+        },
+        "cn_psVrAimRequired": {
+            "name": "cn_psVrAimRequired",
+            "values": ["FALSE"]
+        },
+        "cn_playstationCamera": {
+            "name": "cn_playstationCamera",
+            "values": ["NOTREQUIRED"]
+        },
+        "cn_singstarMicrophone": {
+            "name": "cn_singstarMicrophone",
+            "values": ["NOTREQUIRED"]
+        },
+        "cn_crossPlatformPSVita": {
+            "name": "cn_crossPlatformPSVita",
+            "values": ["FALSE"]
+        },
+        "cn_psVrAimEnabled": {
+            "name": "cn_psVrAimEnabled",
+            "values": ["FALSE"]
+        },
+        "primary_classification": {
+            "name": "primary_classification",
+            "values": ["PREMIUM_GAME"]
+        }
+    },
+    "name": "Zombieland: Double Tap- Road Trip",
+    "pageTypeId": 2,
+    "playable_platform": ["PS4™"],
+    "promomedia": [],
+    "provider_name": "GAMEMILL ENTERTAINMENT",
+    "release_date": "2019-10-15T00:00:00Z",
+    "restricted": false,
+    "revision": 10,
+    "short_name": "Zombieland: Double Tap- Road Trip",
+    "size": 0,
+    "sku_links": [],
+    "skus": [{
+        "amortizeFlag": false,
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "$39.99",
+        "eligibilities": [],
+        "entitlements": [{
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 3,
+            "id": "UP0283-CUSA15243_00-ZOMBIELAND201900",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Zombieland: Double Tap - Road Trip",
+            "packageType": "PS4GD",
+            "packages": [{
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 7301496832
+            }],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+        }],
+        "id": "UP0283-CUSA15243_00-ZOMBIELAND201900-U001",
+        "is_original": false,
+        "name": "Full Game",
+        "platforms": [0, 18, 10, 13],
+        "price": 3999,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 0,
+        "type": "standard"
+    }],
+    "star_rating": {
+        "total": "34",
+        "score": "3.29",
+        "count": [{
+            "star": 1,
+            "count": 9
+        }, {
+            "star": 2,
+            "count": 3
+        }, {
+            "star": 3,
+            "count": 5
+        }, {
+            "star": 4,
+            "count": 3
+        }, {
+            "star": 5,
+            "count": 14
+        }]
+    },
+    "start": 0,
+    "timestamp": 1593011972000,
+    "title_name": "Zombieland: Double Tap- Road Trip",
+    "top_category": "downloadable_game",
+    "total_results": 0
+}
